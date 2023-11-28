@@ -1,0 +1,7 @@
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/ei/ExecutionIndexingTest.java
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/afl/RedundancyTest.java
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/guidance/GuidanceTest.java
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/util/CountersTest.java
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/util/CoverageTest.java
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/ei/ExecutionIndexingGuidanceTest.java
+/home/darrkest/JQF/fuzz/src/test/java/edu/berkeley/cs/jqf/fuzz/util/NonZeroCachingCountersTest.java
